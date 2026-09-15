@@ -24,7 +24,7 @@ Predicts a student's mental health score (0–10) from their social media habits
 Install with:
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## ⚙️ Running the backend
