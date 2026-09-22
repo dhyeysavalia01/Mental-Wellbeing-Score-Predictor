@@ -4,6 +4,9 @@ Predicts a student's mental health score (0–10) from their social media habits
 
 #### ⚡️ [Try it yourself](https://mental-wellbeing-score-predictor.netlify.app/)
 
+## 𝌭 Architecture
+![Architecture Diagram](images/architecture.png)
+
 ## 📁 Project structure
 
 ```
